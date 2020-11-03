@@ -1,0 +1,14 @@
+# some information about you
+name: "Michele Ciocchetta"
+nickname: "Michele"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/avatar.png"
+
+
+# some summary about what you do
+summary:
+  - I am an Engineer
+  - I studied telecommunications and electromagnetism
+  - I love space and transport systems
+  - I love to work with some fun projects

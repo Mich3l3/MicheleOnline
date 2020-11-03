@@ -1,0 +1,71 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: System Engineer
+# your company information
+company:
+  name: Vitesco Technologies
+  url: "https://www.vitesco-technologies.com/en/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV-FR.pdf"
+
+# a summary about you
+summary: 'I am a system engineer with 2 years of working experience. I handle systems in the vehicle access domain, such as door handles and easy trunk access. My work help people trust and enjoy smart vehicle access. Sometimes, I work on fun projects like building sites or on electronics projects.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "ciocchetta.michele@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Mich3l3"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/michele-ciocchetta-36a42a111"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/ciocchettamichele/"
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 75
+  color: blue
+- name: Team Work
+  percentage: 95
+  color: yellow
+- name: Communication
+  percentage: 80
+  color: pink
+- name: Hard Working
+  percentage: 90
+  color: green
+- name: Fast Learner
+  percentage: 95
+  color: sky
+- name: Problem Solving
+  percentage: 90
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"
